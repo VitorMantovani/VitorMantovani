@@ -15,5 +15,7 @@
   <img align="center" alt="Vitor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img aling="center" alt="Vitor-TypeScript" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img aling="center" alt="Vitor-JavaScript" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img aling="center" alt="Vitor-NestJs" height="30" widht="40" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg">
+  <img aling="center" alt="Vitor-Docker" height="30" widht="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
 </div>
 
