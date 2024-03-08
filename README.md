@@ -2,9 +2,9 @@
 
 ## Sobre mim
 
-  🌱 Estou cursando Análise e Desenvolvimento de Sistemas na FIAP
+  🌱 Sou formado em  Análise e Desenvolvimento de Sistemas na FIAP
   
-  🚀 Atualmente estudando desenvolvimento back-end e machine learning 
+  🚀 Desenvolvedor full-stack
   
   📫 Contato: mantovanifreitasvitor@gmail.com 
  
